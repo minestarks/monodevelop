@@ -17,7 +17,7 @@ DEP[0]=md-addins
 DEP_NAME[0]=MDADDINS
 DEP_PATH[0]=${top_srcdir}/../md-addins
 DEP_MODULE[0]=git@github.com:xamarin/md-addins.git
-DEP_NEEDED_VERSION[0]=e49d700c0693c587533184b9bd13db8b3d586492
+DEP_NEEDED_VERSION[0]=8ee30d6628bfd9b3981057a9ddbee0ed29a24204
 DEP_BRANCH_AND_REMOTE[0]="d15-4-fix-59500-bump-android-sdk-installer origin/d15-4-fix-59500-bump-android-sdk-installer"
 
 # heap-shot
