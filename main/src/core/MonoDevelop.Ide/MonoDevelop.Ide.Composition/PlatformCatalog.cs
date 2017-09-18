@@ -143,6 +143,8 @@ namespace Microsoft.VisualStudio.Platform
 				LinkTypes ("text/x-scss-web", "SCSS");
 				LinkTypes ("text/x-html", "htmlx");
 				LinkTypes ("text/x-json", "JSON");
+				LinkTypes ("text/x-javascript", "JavaScript");
+				LinkTypes ("text/x-typescript", "TypeScript");
 			}
 		}
 
